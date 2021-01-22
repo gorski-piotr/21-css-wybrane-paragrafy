@@ -1,0 +1,13 @@
+p {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.blue-paragraph {
+    background-color: blue;
+}
+
+.p-diff-opacity {
+    opacity: 0.5;
+}
